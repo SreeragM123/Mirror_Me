@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MirrorMe</string>
+    <string name="choose_view_mode">Choose your view mode</string>
+    <string name="mirror_view">Mirror View</string>
+    <string name="others_view">Others View</string>
+    <string name="normal_selfie">Normal Selfie</string>
+    <string name="how_others_see_you">How others see you</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="photos_saved_confirmation">Photos are saved only when confirmed</string>
+    <string name="back_to_home">Back to home</string>
+</resources>

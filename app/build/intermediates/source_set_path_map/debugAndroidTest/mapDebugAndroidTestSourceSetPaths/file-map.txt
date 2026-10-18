@@ -1,0 +1,4 @@
+com.example.mirrorme.test.app-androidTest-0 D:\Projects\Android\MirrorMe-Android-Project\MirrorMe\app\build\generated\res\resValues\androidTest\debug
+com.example.mirrorme.test.app-mergeDebugAndroidTestResources-1 D:\Projects\Android\MirrorMe-Android-Project\MirrorMe\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.mirrorme.test.app-mergeDebugAndroidTestResources-2 D:\Projects\Android\MirrorMe-Android-Project\MirrorMe\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.mirrorme.test.app-debugAndroidTest-3 D:\Projects\Android\MirrorMe-Android-Project\MirrorMe\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
